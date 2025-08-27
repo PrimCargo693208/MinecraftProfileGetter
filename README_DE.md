@@ -24,7 +24,7 @@ Es gibt mehrere verschiedene Modi, mit denen die Daten abgerufen werden können.
 
 Zeigt die Hilfeseite an.
 
-1. Starte die Datei `start_help.bat`
+1. Starte die Datei `help.bat`
 
 ### Normal
 

@@ -24,7 +24,7 @@ There are a few different modes to get the data:
 
 Get the help page for this program
 
-1. Start the file `start_help.bat`
+1. Start the file `help.bat`
 
 ### Normal
 
