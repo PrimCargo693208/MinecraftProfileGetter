@@ -22,7 +22,7 @@ There are a few different modes to get the data:
 
 ### Help
 
-Get the help page for this programm
+Get the help page for this program
 
 1. Start the file `start_help.bat`
 
@@ -32,7 +32,7 @@ Get the player data as plain text
 
 1. Start the file `start.bat`
 2. Enter the player name
-3. Press Enter to restart or enter "exit" and press Enter to exit the programm.
+3. Press Enter to restart or enter "exit" and press Enter to exit the program.
 
 ### RAW
 
@@ -40,15 +40,15 @@ Get the player as JSON-Object
 
 1. Start the file `start_raw.bat`
 2. Enter the player name
-3. Press Enter to restart or enter "exit" and press Enter to exit the programm.
+3. Press Enter to restart or enter "exit" and press Enter to exit the program.
 
 ### Clear on exit
 
-Analogous to Normal mode, but with the addtion that it clears the terminal on programm exit.
+Analogous to Normal mode, but with the addtion that it clears the terminal on program exit.
 
 1. Start the file `start_clear.bat`
 2. Enter the player name
-3. Press [Enter] to restart or enter "exit" and press [Enter] to exit the programm and clear the terminal.
+3. Press [Enter] to restart or enter "exit" and press [Enter] to exit the program and clear the terminal.
 
 ### Terminal
 
