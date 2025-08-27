@@ -3,69 +3,69 @@
 ![image](Terminal-1115x628.png)
 [<svg xmlns="http://www.w3.org/2000/svg" width="78" height="20" role="img" aria-label="⭐: If Useful"><title>⭐: If Useful</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="78" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="21" height="20" fill="#555"/><rect x="21" width="57" height="20" fill="#bc4e99"/><rect width="78" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="115" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="110">⭐</text><text x="115" y="140" transform="scale(.1)" fill="#fff" textLength="110">⭐</text><text aria-hidden="true" x="485" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="470">If Useful</text><text x="485" y="140" transform="scale(.1)" fill="#fff" textLength="470">If Useful</text></g></svg>](https://github.com/PrimCargo693208/MinecraftProfileGetter)
 
-MinecraftProfileGetter is a Tool to request Minecraft profiles.
+MinecraftProfileGetter ist ein Tool zum Abrufen von Minecraft Profilen.
 
 ## Features
 
-MinecraftProfileGetter has the following features:
-- Request the players UUID
-- Request the players Skin texture
-- Output as JSON-Object
-- Output as plain text
+MinecraftProfileGetter bietet folgende Features:
+- Abfragen der UUID des Spielers
+- Abfragen der Skintextur des Spielers
+- Rückgabe als JSON-Objekt
+- Rückgabe als Klartext
 
 ## Installation
 
-MinecraftProfileGetter doesn't needs to be installed. Just unpack the ZIP folder.
+Installation wird nicht benötigt. Einfach den ZIP-Ordner entpacken.
 
 ## How to use
 
-There are a few different modes to get the data:
+Es gibt mehrere verschiedene Modi, mit denen die Daten abgerufen werden können. 
 
-### Help
+### Hilfe
 
-Get the help page for this programm
+Zeigt die Hilfeseite an.
 
-1. Start the file `start_help.bat`
+1. Starte die Datei `start_help.bat`
 
 ### Normal
 
-Get the player data as plain text
+Gibt die Spielerdaten als Text aus.
 
-1. Start the file `start.bat`
-2. Enter the player name
-3. Press Enter to restart or enter "exit" and press Enter to exit the programm.
+1. Starte die Datei `start.bat`
+2. Gebe den Spielernamen ein
+3. Drücke [Enter], um das Programm neuzustarten, oder gebe "exit" ein und drücke [Enter], um das Programm zu beenden.
 
 ### RAW
 
-Get the player as JSON-Object
+Gibt die Spielerdaten als JSON-Objekt aus.
 
-1. Start the file `start_raw.bat`
-2. Enter the player name
-3. Press Enter to restart or enter "exit" and press Enter to exit the programm.
+1. Starte die Datei `start_raw.bat`
+2. Gebe den Spielernamen ein
+3. Drücke [Enter], um das Programm neuzustarten, oder gebe "exit" ein und drücke [Enter], um das Programm zu beenden.
 
 ### Clear on exit
 
-Analogous to Normal mode, but with the addtion that it clears the terminal on programm exit.
+Analog zum normalen Modus, aber mit der Ergänzung, dass sich das Terminal bei Programmende automatisch  leert.
 
-1. Start the file `start_clear.bat`
-2. Enter the player name
-3. Press [Enter] to restart or enter "exit" and press [Enter] to exit the programm and clear the terminal.
+1. Starte die Datei `start_clear.bat`
+2. Gebe den Spielernamen ein
+3. Drücke [Enter], um das Programm neuzustarten, oder gebe "exit" ein und drücke [Enter], um das Programm zu beenden und das Terminal zu leeren.
 
 ### Terminal
 
-Or just type the command manually in the Terminal! \
+Oder tippe den Befehl einfach manuell im Terminal ab! \
 `java -jar MinecraftProfileGetter.jar`
 
-Run the following command for a help page! \
-`java -jar MinecraftProfileGetter.jar -h`
+Führe den folgenden Befehl aus, um eine Hilfsseite zu erhalten: \
+`java -jar Minecraftprofilegetter.jar -h`
 
 ## Deinstallation
 
-Delete the folder.
+Lösche den Ordner.
 
 ## Credits
 
-Thanks to
+Danke an
 - **[stleary](https://github.com/stleary):** [org.json](https://github.com/stleary/JSON-java)
   ![image](https://github.com/stleary/JSON-java/blob/master/images/JsonJava.png?raw=true)
 
